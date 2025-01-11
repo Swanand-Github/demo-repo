@@ -1,0 +1,25 @@
+body{
+    background-color : black ;
+}
+
+.toplink{
+    color : grey;
+    padding: 10px;
+    word-spacing: 20px ;
+    cursor : pointer;
+}
+#james{
+    height:400px;
+    width: 400px;
+    padding-left:0%;
+}
+h1{
+    color: aliceblue;
+    width: 200px;
+}
+#jet{
+    border:1px solid black;
+    padding-left:  600px ;
+    padding-top:  20px;
+ 
+}
